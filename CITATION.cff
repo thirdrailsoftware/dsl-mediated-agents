@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work or the term, please cite it as below."
+title: "DSL-mediated Agents: A Definition"
+authors:
+  - family-names: "Livengood"
+    given-names: "Steve"
+date-released: "2026-10-22"
+url: "https://github.com/thirdrailsoftware/dsl-mediated-agents"
+doi: "10.5281/zenodo.23587494"
+license: CC-BY-4.0
